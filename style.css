@@ -1,15 +1,15 @@
-.page:before{
-    border-radius: 4px;
+.page::before {
+  border-radius: 4px;
 }
 
 .contacts li a.twitter:hover {
-    color: #04bef7;
+  color: #04bef7;
 }
 
 .contacts li a.instagram:hover {
-    color: #a62e9e;
+  color: #a62e9e;
 }
 
 .avatar__image {
-    cursor: pointer;
+  cursor: pointer;
 }
